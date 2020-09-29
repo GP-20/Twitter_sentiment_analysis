@@ -1,0 +1,12 @@
+jupyter==1.0.0
+matplotlib==3.2.2
+nltk==3.5
+notebook==6.0.3
+numpy==1.18.5
+pandas==1.0.5
+regex==2020.7.14
+scikit-learn==0.23.1
+seaborn==0.10.1
+tweepy==3.9.0
+wordcloud==1.7.0
+
